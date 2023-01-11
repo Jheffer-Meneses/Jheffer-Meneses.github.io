@@ -1,5 +1,5 @@
 .carouselExampleDark{
-    width: 10px;
+    width: 100px;
 
 }
 img {
@@ -11,6 +11,7 @@ img {
 }
 div .carouselExampleDark{
     align-content: center;
+    height: 50px;
 }
 body {
     background-color: bisque;
