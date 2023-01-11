@@ -6,6 +6,13 @@ img {
 
     width: 500px;
     height:300px;
+    align-content: center;
 
 }
+div .carouselExampleDark{
+    align-content: center;
+}
+body {
+    background-color: bisque;
+    color: aliceblue;
     
