@@ -1,7 +1,3 @@
-.carouselExampleDark{
-    width: 100px;
-
-}
 img {
 
     width: 500px;
@@ -11,9 +7,8 @@ img {
 }
 div .carouselExampleDark{
     align-content: center;
-    height: 50px;
+    height: 500px;
 }
 body {
-    background-color: bisque;
-    color: aliceblue;
-    
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
